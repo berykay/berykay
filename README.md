@@ -1,5 +1,5 @@
 👋</br>
-Hi, I'm Berkay Yıldız aka berykay. I like computer science and programming a lot.<b/r>
+Hi, I'm Berkay Yıldız aka berykay. I like computer science and programming a lot.</br>
 I'm currently a 3rd year Computer Science student at TOBB ETU. 
 
 
