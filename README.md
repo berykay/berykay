@@ -19,6 +19,12 @@
   </a>
 </div>
 
+ <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=berykay) 
+  <a href="https://github.com/berykay/berykay" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/berykay/berykay?label=profile%20updated&style=flat-square"></a>
+</div>
+
 <h1 align="center">Hey there 👋</h1>
 
 ###
