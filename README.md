@@ -19,14 +19,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=berkay.berkay&left_text=Profile Views"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -55,8 +47,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/berkay/berkay/blob/output/snake.svg" alt="Snake animation" />
-
-###
