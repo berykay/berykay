@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://tr.linkedin.com/in/berkay-y%C4%B1ld%C4%B1z-012393196" target="_blank">
+  <a href="https://tr.linkedin.com/in/berkay-y%C4%B1ld%C4%B1z-012393196" target="[_blank](https://tr.linkedin.com/in/berkay-y%C4%B1ld%C4%B1z-012393196)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/berykay#7937" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="berkayyildiz550@gmail.com" target="_blank">
+  <a href="mailto:berkayyildiz550@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/berkayldz16/?next=%2F" target="_blank">
