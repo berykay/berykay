@@ -3,6 +3,10 @@
 
 ###
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Love+to+explore+new+technologies+%E2%9C%A8;Feel+free+to+explore+my+repositories+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <a href="https://tr.linkedin.com/in/berkay-y%C4%B1ld%C4%B1z-012393196" target="[_blank](https://tr.linkedin.com/in/berkay-y%C4%B1ld%C4%B1z-012393196)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -24,7 +28,7 @@
   <a href="https://github.com/berykay/berykay" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/berykay/berykay?label=profile%20updated&style=flat-square"></a>
 </div>
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center"></h1>
 
 ###
 
