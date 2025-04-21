@@ -32,7 +32,12 @@
 
 ###
 
-<p align="left">I am a computer science student who loves to stay up-to-date with the latest technology trends and advancements. I am always following new tech blogs and trying out new features to challenge myself and expand my knowledge.<br><br>I have a particular interest in the field of machine learning, where I enjoy exploring various applications and learning new techniques. I have also gained practical experience with web3, flutter and React, and prefer hands-on learning to solidify my understanding of these technologies.</p>
+<p align="left">I am a Computer Science graduate who loves staying up-to-date with the latest technology trends and advancements. I actively follow tech blogs and enjoy exploring new tools and features to challenge myself and deepen my knowledge.
+
+I have a strong interest in machine learning and data science, and I’m also passionate about building practical solutions through full-stack development. I have hands-on experience with technologies like Web3, Flutter, React, and backend languages such as PHP, Java, and Python. I prefer learning by doing and enjoy working on projects that combine both AI and full-stack components.
+
+I'm eager to contribute to innovative teams where I can grow across both AI-driven and software engineering domains.
+</p>
 
 ###
 
