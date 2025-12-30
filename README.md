@@ -32,9 +32,9 @@ I am a <strong>Computer Engineer</strong> focused on building software that is p
 Having worked in production environments, I developed a solid understanding of <strong>observability, debugging, and system stability</strong>. I prefer digging into the root cause of issues and building long-term, maintainable solutions rather than fixing problems in isolation.
 </p>
 
-### ⚡ Technologies & Tools
+<h3 align="center">⚡ Technologies & Tools</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" title="JavaScript" />
